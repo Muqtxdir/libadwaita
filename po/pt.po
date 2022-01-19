@@ -1,0 +1,338 @@
+# Portuguese translation for libhandy.
+# Copyright (C) 2020 libhandy's COPYRIGHT HOLDER
+# This file is distributed under the same license as the libhandy package.
+# Juliano de Souza Camargo <julianosc@protonmail.com>, 2020.
+# Hugo Carvalho <hugokarvalho@hotmail.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: libhandy master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/libadwaita/issues\n"
+"POT-Creation-Date: 2021-12-06 17:25+0000\n"
+"PO-Revision-Date: 2021-12-18 14:19+0000\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
+"Language-Team: Portuguese <https://l10n.gnome.org/teams/pt/>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: src/adw-preferences-window.c:212
+msgid "Untitled page"
+msgstr "Página sem título"
+
+#: src/adw-preferences-window.ui:8
+msgid "Preferences"
+msgstr "Preferências"
+
+#: src/adw-preferences-window.ui:69
+msgid "Search"
+msgstr "Pesquisar"
+
+#: src/adw-preferences-window.ui:139
+msgid "No Results Found"
+msgstr "Nenhum resultado encontrado"
+
+#: src/adw-preferences-window.ui:140
+msgid "Try a different search."
+msgstr "Tente uma pesquisa diferente."
+
+#: src/inspector/adw-inspector-page.c:76
+msgid "No Preference"
+msgstr "Sem preferência"
+
+#: src/inspector/adw-inspector-page.c:78
+msgid "Prefer Dark"
+msgstr "Preferir escuro"
+
+#: src/inspector/adw-inspector-page.c:80
+msgid "Prefer Light"
+msgstr "Preferir claro"
+
+#. Translators: The name of the library, not the stylesheet
+#: src/inspector/adw-inspector-page.c:98
+msgid "Adwaita"
+msgstr "Adwaita"
+
+#: src/inspector/adw-inspector-page.ui:10
+msgid "System Appearance"
+msgstr "Aparência do sistema"
+
+#: src/inspector/adw-inspector-page.ui:11
+msgid ""
+"Override settings for this application. They will be reset upon closing the "
+"inspector."
+msgstr ""
+"Substituir definições para esta aplicação. Serão reiniciadas ao fechar o "
+"inspector."
+
+#: src/inspector/adw-inspector-page.ui:14
+msgid "System Supports Color Schemes"
+msgstr "O sistema suporta esquemas de cores"
+
+#: src/inspector/adw-inspector-page.ui:26
+msgid "Preferred Color Scheme"
+msgstr "Esquema de cores preferido"
+
+#: src/inspector/adw-inspector-page.ui:43
+msgid "High Contrast"
+msgstr "Alto contraste"
+
+#~ msgid "This property does not apply when a custom title is set"
+#~ msgstr ""
+#~ "Esta propriedade não se aplica quando está definido um título "
+#~ "personalizado"
+
+#~ msgid ""
+#~ "The decoration layout does not apply to header bars which do no show "
+#~ "window controls"
+#~ msgstr ""
+#~ "A disposição da decoração não se aplica a barras de cabeçalho que não "
+#~ "mostrem controlos de janela"
+
+#~ msgid "Add group to %s"
+#~ msgstr "Adicionar grupo a %s"
+
+#~ msgid "Add page to %s"
+#~ msgstr "Adicionar página a %s"
+
+#~ msgid "Search bar is already full"
+#~ msgstr "A barra de procura já está cheia"
+
+#~ msgid "Icon name"
+#~ msgstr "Nome do ícone"
+
+#~ msgid "Subtitle"
+#~ msgstr "Subtítulo"
+
+#~ msgid "Use underline"
+#~ msgstr "Utilizar sublinhado"
+
+#~ msgid ""
+#~ "If set, an underline in the text indicates the next character should be "
+#~ "used for the mnemonic accelerator key"
+#~ msgstr ""
+#~ "Se definido, um sublinhado no texto indica que o carácter seguinte deverá "
+#~ "ser utilizado como tecla de atalho"
+
+#~ msgid "Number of pages"
+#~ msgstr "Número de páginas"
+
+#~ msgid "Position"
+#~ msgstr "Posição"
+
+#~ msgid "Spacing"
+#~ msgstr "Espaçamento"
+
+#~ msgid "Horizontally homogeneous"
+#~ msgstr "Homogéneo horizontalmente"
+
+#~ msgid "Horizontally homogeneous sizing"
+#~ msgstr "Dimensão homogénea horizontal"
+
+#~ msgid "Vertically homogeneous"
+#~ msgstr "Homogéneo verticalmente"
+
+#~ msgid "Vertically homogeneous sizing"
+#~ msgstr "Dimensão homogénea vertical"
+
+#~ msgid "Visible child"
+#~ msgstr "Filho visível"
+
+#~ msgid "Name of visible child"
+#~ msgstr "Nome do filho visível"
+
+#~ msgid "Transition type"
+#~ msgstr "Tipo de transição"
+
+#~ msgid "Transition duration"
+#~ msgstr "Duração da transição"
+
+#~ msgid "Transition running"
+#~ msgstr "Transição em execução"
+
+#~ msgid "Whether or not the transition is currently running"
+#~ msgstr "Se a transição está ou não a ser executada"
+
+#~ msgid "Interpolate size"
+#~ msgstr "Interpolar tamanho"
+
+#~ msgid ""
+#~ "Whether or not the size should smoothly change when changing between "
+#~ "differently sized children"
+#~ msgstr ""
+#~ "Se o tamanho deve ou não mudar suavemente ao mudar entre filhos de "
+#~ "diferentes tamanhos"
+
+#~ msgid "Name"
+#~ msgstr "Nome"
+
+#~ msgid "The name of the child page"
+#~ msgstr "O nome da página filha"
+
+#~ msgid "Expanded"
+#~ msgstr "Expandido"
+
+#~ msgid "Application menu"
+#~ msgstr "Menu da aplicação"
+
+#~ msgid "Minimize"
+#~ msgstr "Minimizar"
+
+#~ msgid "Restore"
+#~ msgstr "Restaurar"
+
+#~ msgid "Maximize"
+#~ msgstr "Maximizar"
+
+#~ msgid "Close"
+#~ msgstr "Fechar"
+
+#~ msgid "Back"
+#~ msgstr "Recuar"
+
+#~ msgid "Pack type"
+#~ msgstr "Tipo de arrumação"
+
+#~ msgid ""
+#~ "A GtkPackType indicating whether the child is packed with reference to "
+#~ "the start or end of the parent"
+#~ msgstr ""
+#~ "Um GtkPackType indicando se o filho é arrumado com referência ao início "
+#~ "ou fim do pai"
+
+#~ msgid "The index of the child in the parent"
+#~ msgstr "O índice do filho no pai"
+
+#~ msgid "Title"
+#~ msgstr "Título"
+
+#~ msgid "The title to display"
+#~ msgstr "O título a mostrar"
+
+#~ msgid "The subtitle to display"
+#~ msgstr "O subtítulo a mostrar"
+
+#~ msgid "Custom Title"
+#~ msgstr "Texto personalizado"
+
+#~ msgid "Custom title widget to display"
+#~ msgstr "Widget de títulos personalizados a mostrar"
+
+#~ msgid "The amount of space between children"
+#~ msgstr "A quantidade de espaço entre filhos"
+
+#~ msgid "Show decorations"
+#~ msgstr "Mostrar decorações"
+
+#~ msgid "Whether to show window decorations"
+#~ msgstr "Se mostrar ou não as decorações da janela"
+
+#~ msgid "Decoration Layout"
+#~ msgstr "Disposição da decoração"
+
+#~ msgid "The layout for window decorations"
+#~ msgstr "A disposição para as decorações da janela"
+
+#~ msgid "Decoration Layout Set"
+#~ msgstr "Conjunto de disposição das decorações"
+
+#~ msgid "Whether the decoration-layout property has been set"
+#~ msgstr "Se a propriedade de disposição da decoração foi ou não definida"
+
+#~ msgid "Has Subtitle"
+#~ msgstr "Tem subtítulo"
+
+#~ msgid "Whether to reserve space for a subtitle"
+#~ msgstr "Se reservar ou não espaço para um subtítulo"
+
+#~ msgid "The animation duration, in milliseconds"
+#~ msgstr "A animação da duração, em milissegundos"
+
+#~ msgid "Symbols"
+#~ msgstr "Símbolos"
+
+#~ msgid "Row spacing"
+#~ msgstr "Espaçamento de linha"
+
+#~ msgid "The amount of space between two consecutive rows"
+#~ msgstr "A quantidade de espaço entre duas linhas consecutivas"
+
+#~ msgid "Column spacing"
+#~ msgstr "Espaçamento de coluna"
+
+#~ msgid "The amount of space between two consecutive columns"
+#~ msgstr "A quantidade de espaço entre duas colunas consecutivas"
+
+#~ msgid "Entry"
+#~ msgstr "Entrada"
+
+#~ msgid "Description"
+#~ msgstr "Descrição"
+
+#~ msgid "Search Mode Enabled"
+#~ msgstr "Modo de Procura Ativo"
+
+#~ msgid "Whether the search mode is on and the search bar shown"
+#~ msgstr ""
+#~ "Se o modo de procura está ou não ativo e a barra de procura mostrada"
+
+#~ msgid "Show Close Button"
+#~ msgstr "Mostrar botão Fechar"
+
+#~ msgid "Whether to show the close button in the toolbar"
+#~ msgstr "Se mostrar ou não o botão de fechar na barra de ferramentas"
+
+#~ msgid "Homogeneous"
+#~ msgstr "Homogénea"
+
+#~ msgid "Homogeneous sizing"
+#~ msgstr "Dimensão homogénea"
+
+#~ msgid "The type of animation used to transition"
+#~ msgstr "O tipo de animações utilizadas na transição"
+
+#~ msgid "X align"
+#~ msgstr "Alinhamento X"
+
+#~ msgid "Y align"
+#~ msgstr "Alinhamento y"
+
+#~ msgid "Enabled"
+#~ msgstr "Ativa"
+
+#~ msgid "Orientation"
+#~ msgstr "Orientação"
+
+#~ msgid "Selection mode"
+#~ msgstr "Modo de seleção"
+
+#~ msgctxt "HdyValueObjectClass"
+#~ msgid "Value"
+#~ msgstr "Valor"
+
+#~ msgid "Stack"
+#~ msgstr "Pilha"
+
+#~ msgid "Reveal"
+#~ msgstr "Revelar"
+
+#~ msgid "Icon Name"
+#~ msgstr "Nome do ícone"
+
+#~ msgid "Icon Size"
+#~ msgstr "Tamanho do ícone"
+
+#~ msgid "Symbolic size to use for named icon"
+#~ msgstr "Tamanho simbólico a usar para o ícone com nome"
+
+#~ msgid "Move"
+#~ msgstr "Mover"
+
+#~ msgid "Resize"
+#~ msgstr "Redimensionar"
+
+#~ msgid "Always on Top"
+#~ msgstr "Sempre no topo"

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface domain="libadwaita">
+  <requires lib="gtk" version="4.0"/>
+  <template class="AdwPreferencesPage" parent="GtkWidget">
+    <child>
+      <object class="GtkScrolledWindow" id="scrolled_window">
+        <property name="hscrollbar-policy">never</property>
+        <property name="propagate-natural-height">True</property>
+        <property name="child">
+          <object class="GtkViewport">
+            <property name="scroll-to-focus">True</property>
+            <property name="child">
+              <object class="AdwClamp">
+                <child>
+                  <object class="GtkBox" id="box">
+                    <property name="orientation">vertical</property>
+                  </object>
+                </child>
+              </object>
+            </property>
+          </object>
+        </property>
+      </object>
+    </child>
+  </template>
+</interface>

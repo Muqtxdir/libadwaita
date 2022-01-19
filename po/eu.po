@@ -1,0 +1,213 @@
+# Basque translation for libhandy.
+# Copyright (C) 2020 libhandy's COPYRIGHT HOLDER
+# This file is distributed under the same license as the libhandy package.
+# Asier Sarasua Garmendia <asiersarasua@ni.eus>, 2020, 2021.
+#
+msgid ""
+msgstr "Project-Id-Version: libhandy master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/libadwaita/issues\n"
+"POT-Creation-Date: 2021-12-06 17:25+0000\n"
+"PO-Revision-Date: 2021-12-23 10:00+0100\n"
+"Last-Translator: Asier Sarasua Garmendia <asier.sarasua@ni.eus>\n"
+"Language-Team: Basque <librezale@librezale.eus>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/adw-preferences-window.c:212
+msgid "Untitled page"
+msgstr "Izenbururik gabeko orrialdea"
+
+#: src/adw-preferences-window.ui:8
+msgid "Preferences"
+msgstr "Hobespenak"
+
+#: src/adw-preferences-window.ui:69
+msgid "Search"
+msgstr "Bilatu"
+
+#: src/adw-preferences-window.ui:139
+msgid "No Results Found"
+msgstr "Ez da emaitzarik aurkitu"
+
+#: src/adw-preferences-window.ui:140
+msgid "Try a different search."
+msgstr "Saiatu bestelako bilaketa batekin."
+
+#: src/inspector/adw-inspector-page.c:76
+msgid "No Preference"
+msgstr "Hobespenik ez"
+
+#: src/inspector/adw-inspector-page.c:78
+msgid "Prefer Dark"
+msgstr "Hobeto iluna"
+
+#: src/inspector/adw-inspector-page.c:80
+msgid "Prefer Light"
+msgstr "Hobeto argia"
+
+#. Translators: The name of the library, not the stylesheet
+#: src/inspector/adw-inspector-page.c:98
+msgid "Adwaita"
+msgstr "Adwaita"
+
+#: src/inspector/adw-inspector-page.ui:10
+msgid "System Appearance"
+msgstr "Sistemaren itxura"
+
+#: src/inspector/adw-inspector-page.ui:11
+msgid ""
+"Override settings for this application. They will be reset upon closing the "
+"inspector."
+msgstr "Gainidatzi aplikazio honek ezarpenak. Ikuskatzailea itxi ondoren berrezarriko dira."
+
+#: src/inspector/adw-inspector-page.ui:14
+msgid "System Supports Color Schemes"
+msgstr "Sistemak kolore-eskemak onartzen ditu"
+
+#: src/inspector/adw-inspector-page.ui:26
+msgid "Preferred Color Scheme"
+msgstr "Hobetsitako kolore-eskema"
+
+#: src/inspector/adw-inspector-page.ui:43
+msgid "High Contrast"
+msgstr "Kontraste handia"
+
+#~ msgid "This property does not apply when a custom title is set"
+#~ msgstr ""
+#~ "Propietatea ez da aplikatzen titulu pertsonalizatua ezarrita dagoenean"
+
+#~ msgid ""
+#~ "The decoration layout does not apply to header bars which do no show "
+#~ "window controls"
+#~ msgstr ""
+#~ "Dekorazioaren diseinua ez zaie aplikatzen leiho-kontrolak erakusten ez "
+#~ "dituzten goiburu-barrei"
+
+#~ msgid "Icon name"
+#~ msgstr "Ikono-izena"
+
+#~ msgid "Activatable widget"
+#~ msgstr "Trepeta aktibagarria"
+
+#~ msgid "The widget to be activated when the row is activated"
+#~ msgstr "Errenkada aktibatzen denean aktibatuko den trepeta"
+
+#~ msgid "Subtitle"
+#~ msgstr "Azpititulua"
+
+#~ msgid "Use underline"
+#~ msgstr "Erabili azpimarra"
+
+#~ msgid "Number of pages"
+#~ msgstr "Orrialde kopurua"
+
+#~ msgid "Position"
+#~ msgstr "Kokalekua"
+
+#~ msgid "Spacing"
+#~ msgstr "Tartea"
+
+#~ msgid "Spacing between pages"
+#~ msgstr "Orrien arteko tartea"
+
+#~ msgid "Interactive"
+#~ msgstr "Interaktiboa"
+
+#~ msgid "Animation duration"
+#~ msgstr "Animazioaren iraupena"
+
+#~ msgid "Default animation duration"
+#~ msgstr "Animazio lehenetsiaren iraupena"
+
+#~ msgid "Maximum size"
+#~ msgstr "Gehieneko tamaina"
+
+#~ msgid "Selected index"
+#~ msgstr "Hautatutako indizea"
+
+#~ msgid "The index of the selected item"
+#~ msgstr "Hautatutako elementuaren indizea"
+
+#~ msgid "Use subtitle"
+#~ msgstr "Erabili azpititulua"
+
+#~ msgid "Visible child"
+#~ msgstr "Haur ikusgaia"
+
+#~ msgid "Name"
+#~ msgstr "Izena"
+
+#~ msgid "The name of the child page"
+#~ msgstr "Orri haurraren izena"
+
+#~ msgid "The subtitle for this row"
+#~ msgstr "Errenkada honen azpititulua"
+
+#~ msgid "Expanded"
+#~ msgstr "Hedatuta"
+
+#~ msgid "Whether the row is expanded"
+#~ msgstr "Errenkada hedatuta dagoen ala ez"
+
+#~ msgid "Enable expansion"
+#~ msgstr "Gaitu hedatzea"
+
+#~ msgid "Whether the expansion is enabled"
+#~ msgstr "Hedatzea gaituta dagoen ala ez"
+
+#~ msgid "Application menu"
+#~ msgstr "Aplikazioaren menua"
+
+#~ msgid "Minimize"
+#~ msgstr "Minimizatu"
+
+#~ msgid "Restore"
+#~ msgstr "Leheneratu"
+
+#~ msgid "Maximize"
+#~ msgstr "Maximizatu"
+
+#~ msgid "Close"
+#~ msgstr "Itxi"
+
+#~ msgid "Back"
+#~ msgstr "Atzera"
+
+#~ msgid "Pack type"
+#~ msgstr "Pakete mota"
+
+#~ msgid "Title"
+#~ msgstr "Titulua"
+
+#~ msgid "The title to display"
+#~ msgstr "Bistaratuko den titulua"
+
+#~ msgid "The subtitle to display"
+#~ msgstr "Bistaratuko den azpititulua"
+
+#~ msgid "Custom Title"
+#~ msgstr "Titulu pertsonalizatua"
+
+#~ msgid "Search Mode Enabled"
+#~ msgstr "Bilaketa-modua gaituta"
+
+#~ msgid "Whether the search mode is on and the search bar shown"
+#~ msgstr ""
+#~ "Bilaketa-modua gaituta dagoen eta bilaketa-barra bistan dagoen ala ez"
+
+#~ msgid "Show Close Button"
+#~ msgstr "Erakutsi 'Itxi' botoia"
+
+#~ msgid "Whether to show the close button in the toolbar"
+#~ msgstr "Tresna-barran 'Itxi' botoia erakutsiko den ala ez"
+
+#~ msgid "Widget"
+#~ msgstr "Trepeta"
+
+#~ msgid "Homogeneous"
+#~ msgstr "Homogeneoa"
+
+#~ msgid "Homogeneous sizing"
+#~ msgstr "Tamaina homogeneoa"

@@ -1,0 +1,552 @@
+# Spanish translation for libhandy.
+# Copyright (C) 2020 libhandy's COPYRIGHT HOLDER
+# This file is distributed under the same license as the libhandy package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# FULL NAME <EMAIL@ADDRESS>, 2020.
+# Daniel Mustieles <daniel.mustieles@gmail.com>, 2020-2021.
+# Miguel Ángel Nieto <correo@miguelangelnieto.net>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: libhandy master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/libadwaita/issues\n"
+"POT-Creation-Date: 2021-12-06 17:25+0000\n"
+"PO-Revision-Date: 2021-12-20 12:49+0100\n"
+"Last-Translator: Miguel Ángel Nieto <correo@miguelangelnieto.net>\n"
+"Language-Team: Spanish - Spain <gnome-es-list@gnome.org>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: Gtranslator 41.0\n"
+
+#: src/adw-preferences-window.c:212
+msgid "Untitled page"
+msgstr "Página sin título"
+
+#: src/adw-preferences-window.ui:8
+msgid "Preferences"
+msgstr "Preferencias"
+
+#: src/adw-preferences-window.ui:69
+msgid "Search"
+msgstr "Buscar"
+
+#: src/adw-preferences-window.ui:139
+msgid "No Results Found"
+msgstr "No se han encontrado resultados"
+
+#: src/adw-preferences-window.ui:140
+msgid "Try a different search."
+msgstr "Pruebe a hacer una búsqueda diferente."
+
+#: src/inspector/adw-inspector-page.c:76
+msgid "No Preference"
+msgstr "Sin preferencia"
+
+#: src/inspector/adw-inspector-page.c:78
+msgid "Prefer Dark"
+msgstr "Oscuro preferido"
+
+#: src/inspector/adw-inspector-page.c:80
+msgid "Prefer Light"
+msgstr "Claro preferido"
+
+#. Translators: The name of the library, not the stylesheet
+#: src/inspector/adw-inspector-page.c:98
+msgid "Adwaita"
+msgstr "Adwaita"
+
+#: src/inspector/adw-inspector-page.ui:10
+msgid "System Appearance"
+msgstr "Apariencia del sistema"
+
+#: src/inspector/adw-inspector-page.ui:11
+msgid ""
+"Override settings for this application. They will be reset upon closing the "
+"inspector."
+msgstr ""
+"Anular las configuraciones para esta aplicación. Se reiniciarán al cerrar el "
+"inspector."
+
+#: src/inspector/adw-inspector-page.ui:14
+msgid "System Supports Color Schemes"
+msgstr "El sistema admite esquemas de color"
+
+#: src/inspector/adw-inspector-page.ui:26
+msgid "Preferred Color Scheme"
+msgstr "Esquema de color preferido"
+
+#: src/inspector/adw-inspector-page.ui:43
+msgid "High Contrast"
+msgstr "Alto contraste"
+
+#~ msgid "Insert placeholder to %s"
+#~ msgstr "Insertar marcador a %s"
+
+#~ msgid "Remove placeholder from %s"
+#~ msgstr "Quitar marcador de %s"
+
+#~ msgid "This property does not apply when a custom title is set"
+#~ msgstr ""
+#~ "Esta propiedad no se aplica cuando se ha establecido un título "
+#~ "personalizado"
+
+#~ msgid ""
+#~ "The decoration layout does not apply to header bars which do no show "
+#~ "window controls"
+#~ msgstr ""
+#~ "La capa de decoración no se aplica a las barras de cabecera que no "
+#~ "muestran controles"
+
+#~ msgid "This property only applies when the leaflet is folded"
+#~ msgstr "Esta propiedad sólo se aplica cuando el folleto está doblado"
+
+#~ msgid "Add group to %s"
+#~ msgstr "Añadir grupo a %s"
+
+#~ msgid "Add page to %s"
+#~ msgstr "Añadir página a %s"
+
+#~ msgid "Search bar is already full"
+#~ msgstr "La barra de búsqueda ya está llena"
+
+#~ msgid "Only objects of type %s can be added to objects of type %s."
+#~ msgstr "Sólo se pueden añadir objetos de tipo %s a objetos de tipo %s"
+
+#~ msgid "Icon name"
+#~ msgstr "Nombre del icono"
+
+#~ msgid "Activatable widget"
+#~ msgstr "Widget activable"
+
+#~ msgid "The widget to be activated when the row is activated"
+#~ msgstr "El widget que activar cuando se activa la fila"
+
+#~ msgid "Subtitle"
+#~ msgstr "Subtítulo"
+
+#~ msgid "Use underline"
+#~ msgstr "Usar subrayado"
+
+#~ msgid "Number of pages"
+#~ msgstr "Número de páginas"
+
+#~ msgid "Position"
+#~ msgstr "Posición"
+
+#~ msgid "Current scrolling position"
+#~ msgstr "Posición actual del desplazamiento"
+
+#~ msgid "Spacing"
+#~ msgstr "Espaciado"
+
+#~ msgid "Spacing between pages"
+#~ msgstr "Espacio entre páginas"
+
+#~ msgid "Reveal duration"
+#~ msgstr "Mostrar duración"
+
+#~ msgid "Page reveal duration"
+#~ msgstr "Tiempo que se muestra la página"
+
+#~ msgid "Interactive"
+#~ msgstr "Interactivo"
+
+#~ msgid "Whether the widget can be swiped"
+#~ msgstr "Indica si el widget se puede deslizar"
+
+#~ msgid "Animation duration"
+#~ msgstr "Duración de la animación"
+
+#~ msgid "Default animation duration"
+#~ msgstr "Duración predeterminada de la animación"
+
+#~ msgid "Allow mouse drag"
+#~ msgstr "Permitir arrastre con el ratón"
+
+#~ msgid "Whether to allow dragging with mouse pointer"
+#~ msgstr "Indica si se puede arrastrar con el puntero del ratón"
+
+#~ msgid "Carousel"
+#~ msgstr "Carrusel"
+
+#~ msgid "Maximum size"
+#~ msgstr "Tamaño máximo"
+
+#~ msgid "The maximum size allocated to the child"
+#~ msgstr "El tamaño máximo reservado para el hijo"
+
+#~ msgid "Selected index"
+#~ msgstr "Índice seleccionada"
+
+#~ msgid "The index of the selected item"
+#~ msgstr "El índice del elemento seleccionado"
+
+#~ msgid "Use subtitle"
+#~ msgstr "Usar subtítulo"
+
+#~ msgid "Set the current value as the subtitle"
+#~ msgstr "Establecer el valor actual como subtítulo"
+
+#~ msgid "Horizontally homogeneous"
+#~ msgstr "Homogéneo horizontalmente"
+
+#~ msgid "Horizontally homogeneous sizing"
+#~ msgstr "Tamaño horizontal homogéneo"
+
+#~ msgid "Vertically homogeneous"
+#~ msgstr "Homogéneo verticalmente"
+
+#~ msgid "Vertically homogeneous sizing"
+#~ msgstr "Tamaño vertical homogéneo"
+
+#~ msgid "Visible child"
+#~ msgstr "Hijo visible"
+
+#~ msgid "The widget currently visible"
+#~ msgstr "El widget actualmente visible"
+
+#~ msgid "Name of visible child"
+#~ msgstr "Nombre del hijo visible"
+
+#~ msgid "The name of the widget currently visible"
+#~ msgstr "El nombre del widget visible actualmente"
+
+#~ msgid "Transition type"
+#~ msgstr "Tipo de transición"
+
+#~ msgid "The type of animation used to transition between children"
+#~ msgstr "El tipo de animación usada para cambiar entre hijos"
+
+#~ msgid "Transition duration"
+#~ msgstr "Duración de la transición"
+
+#~ msgid "The transition animation duration, in milliseconds"
+#~ msgstr "La duración de la animación de transición, en milisegundos"
+
+#~ msgid "Transition running"
+#~ msgstr "Transición en ejecución"
+
+#~ msgid "Whether or not the transition is currently running"
+#~ msgstr "Indica si la transición está actualmente en ejecución o no"
+
+#~ msgid "Interpolate size"
+#~ msgstr "Interpolar tamaño"
+
+#~ msgid "Can swipe back"
+#~ msgstr "Puede deslizar hacia atrás"
+
+#~ msgid "Can swipe forward"
+#~ msgstr "Puede deslizar hacia adelante"
+
+#~ msgid "Name"
+#~ msgstr "Nombre"
+
+#~ msgid "The name of the child page"
+#~ msgstr "El nombre de la página hija"
+
+#~ msgid "The subtitle for this row"
+#~ msgstr "El subtítulo para esta fila"
+
+#~ msgid "Expanded"
+#~ msgstr "Expandido"
+
+#~ msgid "Whether the row is expanded"
+#~ msgstr "Indica si la fila está expandida"
+
+#~ msgid "Enable expansion"
+#~ msgstr "Activar expansión"
+
+#~ msgid "Whether the expansion is enabled"
+#~ msgstr "Indica si la expansión está activada"
+
+#~ msgid "Application menu"
+#~ msgstr "Menú de la aplicación"
+
+#~ msgid "Minimize"
+#~ msgstr "Minimizar"
+
+#~ msgid "Restore"
+#~ msgstr "Restaurar"
+
+#~ msgid "Maximize"
+#~ msgstr "Maximizar"
+
+#~ msgid "Close"
+#~ msgstr "Cerrar"
+
+#~ msgid "Back"
+#~ msgstr "Atrás"
+
+#~ msgid "Pack type"
+#~ msgstr "Tipo de paquete"
+
+#~ msgid "The index of the child in the parent"
+#~ msgstr "El índice del hijo en el padre"
+
+#~ msgid "Title"
+#~ msgstr "Título"
+
+#~ msgid "The title to display"
+#~ msgstr "El título que mostrar"
+
+#~ msgid "The subtitle to display"
+#~ msgstr "El subtítulo que mostrar"
+
+#~ msgid "Custom Title"
+#~ msgstr "Título personalizado"
+
+#~ msgid "Custom title widget to display"
+#~ msgstr "Wigdet de título personalizado que mostrar"
+
+#~ msgid "The amount of space between children"
+#~ msgstr "La cantidad de espacio entre hijos"
+
+#~ msgid "Show decorations"
+#~ msgstr "Mostrar decoración"
+
+#~ msgid "Whether to show window decorations"
+#~ msgstr "Indica si se debe mostrar la decoración de la ventana"
+
+#~ msgid "Decoration Layout"
+#~ msgstr "Distribución de la decoración"
+
+#~ msgid "The layout for window decorations"
+#~ msgstr "La distribución de la decoración de la ventana"
+
+#~ msgid "Has Subtitle"
+#~ msgstr "Tiene subtítulo"
+
+#~ msgid "Whether to reserve space for a subtitle"
+#~ msgstr "Indica si se debe reservar espacio para un subtítulo"
+
+#~ msgid "Centering policy"
+#~ msgstr "Política de centrado"
+
+#~ msgid "The policy to horizontally align the center widget"
+#~ msgstr "La política para alinear horizontalmente el widget centrad"
+
+#~ msgid "The animation duration, in milliseconds"
+#~ msgstr "La duración de la animación en milisegundos"
+
+#~ msgid "Decorate all"
+#~ msgstr "Decorar todo"
+
+#~ msgid "Digit"
+#~ msgstr "Dígito"
+
+#~ msgid "Symbols"
+#~ msgstr "Símbolos"
+
+#~ msgid "Show symbols"
+#~ msgstr "Mostar símbolos"
+
+#~ msgid "Row spacing"
+#~ msgstr "Espaciado de filas"
+
+#~ msgid "The amount of space between two consecutive rows"
+#~ msgstr "La cantidad de espacio entre dos filas consecutivas"
+
+#~ msgid "Column spacing"
+#~ msgstr "Espaciado de columnas"
+
+#~ msgid "The amount of space between two consecutive columns"
+#~ msgstr "La cantidad de espacio entre dos columnas consecutivas"
+
+#~ msgid "Letters visible"
+#~ msgstr "Letras visibles"
+
+#~ msgid "Whether the letters below the digits should be visible"
+#~ msgstr "Indica si las letras de debajo de los números son visibles"
+
+#~ msgid "Symbols visible"
+#~ msgstr "Símbolos visibles"
+
+#~ msgid "Entry"
+#~ msgstr "Entrada"
+
+#~ msgid "End action"
+#~ msgstr "Acción de fin"
+
+#~ msgid "The end action widget"
+#~ msgstr "El widget de fin de acción"
+
+#~ msgid "Start action"
+#~ msgstr "Acción de inicio"
+
+#~ msgid "The start action widget"
+#~ msgstr "El widget de iniciar acción"
+
+#~ msgid "Folded"
+#~ msgstr "Doblado"
+
+#~ msgid "Box vertically homogeneous"
+#~ msgstr "Ca"
+
+#~ msgid "Mode transition duration"
+#~ msgstr "Duración del modo de transición"
+
+#~ msgid "Child transition duration"
+#~ msgstr "Duración de la transición hija"
+
+#~ msgid "Navigatable"
+#~ msgstr "Navegable"
+
+#~ msgid "Whether the child can be navigated to"
+#~ msgstr "Indica si se puede navegar al hijo"
+
+#~ msgid "Description"
+#~ msgstr "Descripción"
+
+#~ msgid "The title of the preference"
+#~ msgstr "El título de la preferencia"
+
+#~ msgid "Search enabled"
+#~ msgstr "Búsqueda activada"
+
+#~ msgid "Whether search is enabled"
+#~ msgstr "Indica si la búsqueda está activada"
+
+#~ msgid "Search Mode Enabled"
+#~ msgstr "Modo de búsqueda activado"
+
+#~ msgid "Show Close Button"
+#~ msgstr "Mostrar botón de cerrar"
+
+#~ msgid "Whether to show the close button in the toolbar"
+#~ msgstr ""
+#~ "Indica si se debe mostrar el botón de cerrar en la barra de herramientas"
+
+#~ msgid "Widget"
+#~ msgstr "Widget"
+
+#~ msgid "The widget the shadow will be drawn for"
+#~ msgstr "El widget para el que se dibujará la sombra"
+
+#~ msgid "Homogeneous"
+#~ msgstr "Homogéneo"
+
+#~ msgid "Homogeneous sizing"
+#~ msgstr "Tamaño homogéneo"
+
+#~ msgid "The type of animation used to transition"
+#~ msgstr "El tipo de animación usado para la transición"
+
+#~ msgid "X align"
+#~ msgstr "Alineación X"
+
+#~ msgid "The horizontal alignment, from 0 (start) to 1 (end)"
+#~ msgstr "La alineación horizontal, desde 0 (inicio) hasta 1 (fin)"
+
+#~ msgid "Y align"
+#~ msgstr "alineación Y"
+
+#~ msgid "The vertical alignment, from 0 (top) to 1 (bottom)"
+#~ msgstr "La alineación vertical, desde 0 (inicio) hasta 1 (fin)"
+
+#~ msgid "Enabled"
+#~ msgstr "Activado"
+
+#~ msgid "Orientation"
+#~ msgstr "Orientación"
+
+#~ msgid "Swipeable"
+#~ msgstr "Se puede deslizar"
+
+#~ msgid "Reversed"
+#~ msgstr "Inverso"
+
+#~ msgid "Selection mode"
+#~ msgstr "Modo de selección"
+
+#~ msgctxt "HdyValueObjectClass"
+#~ msgid "Value"
+#~ msgstr "Valor"
+
+#~ msgctxt "HdyValueObjectClass"
+#~ msgid "The contained value"
+#~ msgstr "El valor contenido"
+
+#~ msgid "Policy"
+#~ msgstr "Política"
+
+#~ msgid "The policy to determine the mode to use"
+#~ msgstr "La política para determinar el modo que usar"
+
+#~ msgid "Stack"
+#~ msgstr "Pila"
+
+#~ msgid "Reveal"
+#~ msgstr "Mostrar"
+
+#~ msgid "Icon Name"
+#~ msgstr "Nombre del icono"
+
+#~ msgid "Icon name for image"
+#~ msgstr "Nombre de icono para la imagen"
+
+#~ msgid "Icon Size"
+#~ msgstr "Tamaño del icono"
+
+#~ msgid "Symbolic size to use for named icon"
+#~ msgstr "Tamaño simbólico que usar para el icono con nombre"
+
+#~ msgid "Needs attention"
+#~ msgstr "Requiere atención"
+
+#~ msgid "Narrow ellipsize"
+#~ msgstr "Estrechar elipse"
+
+#~ msgid "Title visible"
+#~ msgstr "Título visible"
+
+#~ msgid "Whether the title label is visible"
+#~ msgstr "Indica si la etiqueta de título es visible"
+
+#~ msgid "Move"
+#~ msgstr "Mover"
+
+#~ msgid "Resize"
+#~ msgstr "Redimensionar"
+
+#~ msgid "Always on Top"
+#~ msgstr "Siempre_encima"
+
+#~ msgid "Indicator style"
+#~ msgstr "Indicador de estilo"
+
+#~ msgid "Page indicator style"
+#~ msgstr "Indicador de estilo de la página"
+
+#~ msgid "Indicator spacing"
+#~ msgstr "Indicador de espaciado"
+
+#~ msgid "Spacing between content and indicators"
+#~ msgstr "Espaciado entre contenido e indicadores"
+
+#~ msgid "Center content"
+#~ msgstr "Centrar contenido"
+
+#~ msgid "Whether to center pages to compensate for indicators"
+#~ msgstr ""
+#~ "Indica si se deben centrar las páginas para compensar los indicadores"
+
+#~ msgid "Maximum width"
+#~ msgstr "Anchura máxima"
+
+#~ msgid "The title for this row"
+#~ msgstr "El título para esta fila"
+
+#~ msgid "Focus"
+#~ msgstr "Foco"
+
+#~ msgid "The header bar that should have the focus"
+#~ msgstr "La barra de cabecera que debe tener el foco"
+
+#~ msgid "Only Digits"
+#~ msgstr "Sólo dígitos"
+
+#~ msgid "Entry widget"
+#~ msgstr "Widget de entrada"
